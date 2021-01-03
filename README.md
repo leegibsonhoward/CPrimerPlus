@@ -5,8 +5,8 @@
 
 Here is a simple overview of how these files and folders are structured
 
-- Chapter_XX
-    - Examples
-        X-XX_example.c
-    - Exercises
-        exercise_XX.c
+- Chapter_xx
+    - Examples  
+        `x-xx_name.c`
+    - Exercises  
+        `ex_x-xx.c`
